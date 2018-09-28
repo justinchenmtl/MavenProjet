@@ -9,6 +9,6 @@
  * @author justi
  */
 public class SecondClass {
-    System.out.println("Second class");
+    System.out.println("this is first class");
     
 }
